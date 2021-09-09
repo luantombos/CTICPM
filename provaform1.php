@@ -1,5 +1,3 @@
-<!doctype html>
-
 <html>
 
 	<head>
@@ -62,9 +60,7 @@
 		<input type="submit" name="btnenviar" value="Enviar" />
 		<input type="reset" name="btncancelar" value="Cancelar" />
 		</p>
-		</p>
 		</form>
-		</div>
 		</div>
 		</div>
 	
